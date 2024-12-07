@@ -1,2 +1,1 @@
-# newrepo
-trying out something
+E-Commerce website for easy and quick online shopping
